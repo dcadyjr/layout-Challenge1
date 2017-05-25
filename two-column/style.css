@@ -1,0 +1,26 @@
+header {
+	background-color: grey;
+	height: 100px;
+	margin-bottom: 20px;
+}
+
+#left{
+	background-color: grey;
+	float: left;
+	width: 60%;
+	height: 500px;
+	margin-bottom: 20px;
+}
+#right {
+	background-color: grey;
+	float: right;
+	width: 37%;
+	height: 500px;
+	margin-bottom: 20px;
+}
+
+footer {
+	background-color: grey;
+	height: 100px;
+	clear: both;
+}
